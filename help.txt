@@ -1,0 +1,28 @@
+// We have designed this software in linux system to install the packages for ubuntu. Please search on google
+
+
+//---- install tkinter ----//
+    for ubuntu- sudo apt-get install python3-tk 
+
+//----  install imageTk-----//
+    sudo apt-get install python3-pil python3-pil.imagetk
+
+//---- install pyrebase ----//
+    pip install pyrebase
+
+//-----install firebase------//
+    pip install firebase-admin
+
+//-----install cv2-----//
+    pip install opencv-python
+
+//-----insall keras------//
+    pip install keras
+
+//------ install tensorflow----(450 MB approx) //
+    pip install tensorflow
+
+
+
+
+
